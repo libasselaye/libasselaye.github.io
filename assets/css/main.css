@@ -1617,6 +1617,18 @@ button {
 
 	}
 
+
+/* les images research */
+#research1 {
+float: left;    
+margin: 0 15px 0 0;
+}
+
+#research2 {
+float: left;    
+margin: 0 15px 0 0;
+}
+
 /* Footer */
 
 #footer {
