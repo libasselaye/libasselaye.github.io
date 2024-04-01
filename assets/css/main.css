@@ -1149,6 +1149,10 @@ button {
 		background-position: center;
 		background-size: cover;
 		background-repeat: no-repeat;
+
+		/*Rajout de l'effet flouter ( blur effect ) */
+  		filter: blur(8px);
+  		-webkit-filter: blur(8px);
 		/* This sets the order of rendering. This will sit behind all elements with z-index > 1 */
 		z-index: 1;
 	}
