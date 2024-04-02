@@ -1638,7 +1638,7 @@ margin: 0 15px 0 0;
     margin-bottom: 10px; /* Espacement entre l'image et les liens */
 }
 .research-item .image img {
-    max-width: 50%; /* Réduire la largeur de l'image à 100% de la taille de son conteneur */
+    max-width: 150%; /* Réduire la largeur de l'image à 100% de la taille de son conteneur */
     height: auto; /* Permettre à l'image de conserver son rapport hauteur/largeur */
 }
 
