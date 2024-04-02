@@ -1654,11 +1654,9 @@ button {
 }
 
 .research-item .links {
-    margin: auto 0; /* Aligner les liens au milieu de leur conteneur */
-    display: flex; /* Utiliser flexbox pour aligner les liens verticalement */
-    flex-direction: column; /* Aligner les liens verticalement */
-    justify-content: center; /* Centrer les liens verticalement */
-
+    display: flex; /* Utiliser flexbox pour aligner les liens horizontalement */
+    align-items: center; /* Aligner les liens verticalement */
+    margin-left: auto; /* Placer les liens à droite */
 }
 
 
