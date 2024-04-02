@@ -1629,6 +1629,15 @@ float: left;
 margin: 0 15px 0 0;
 }
 
+.research-item {
+    margin-bottom: 20px; /* Espacement entre les éléments */
+}
+
+.research-item .image {
+    display: block;
+    margin-bottom: 10px; /* Espacement entre l'image et les liens */
+}
+
 /* Footer */
 
 #footer {
