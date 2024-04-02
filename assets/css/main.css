@@ -1655,8 +1655,9 @@ button {
 
 .research-item .links {
     display: flex; /* Utiliser flexbox pour aligner les liens horizontalement */
+    justify-content: flex-end; /* Aligner les éléments à droite */
     align-items: center; /* Aligner les liens verticalement */
-    margin-left: auto; /* Placer les liens à droite */
+    flex: 1; /* Faire en sorte que les liens prennent tout l'espace disponible horizontalement */
 }
 
 
