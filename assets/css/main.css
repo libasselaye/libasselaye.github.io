@@ -1654,10 +1654,10 @@ button {
 }
 
 .research-item .links {
-    display: flex;
-    flex-direction: column; /* Aligner les liens verticalement */
-    justify-content: center; /* Centrer les liens horizontalement */
     margin-left: auto; /* Placer les liens à droite */
+    display: flex; /* Utiliser flexbox pour aligner les liens verticalement */
+    flex-direction: column; /* Aligner les liens verticalement */
+    justify-content: center; /* Centrer les liens verticalement */
 }
 
 
